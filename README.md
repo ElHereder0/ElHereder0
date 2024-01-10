@@ -1,5 +1,7 @@
 ### Hi there 👋 I'm Hugo
 
+I’m currently working on delevop my own game🎮​💻​🔍
+
 <!--
 **ElHereder0/ElHereder0** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
