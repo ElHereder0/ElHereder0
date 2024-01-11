@@ -2,7 +2,7 @@
 
 I’m currently working on delevop my own game🎮​💻​🔍
 ### What I know
-I’m also learning Java, C#, PHP, and SQL
+I’m learning Java, C#, PHP, and SQL
 <!--
 **ElHereder0/ElHereder0** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
